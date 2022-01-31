@@ -2,7 +2,7 @@
 A very simplistic example of how creating a PieCart using only Vanilla JavaScript
 
 ## How to use
-Just clone the repository and open the the index.html on your browser.
+Just clone the repository and open the index.html on your browser.
 To modify the static values on PieChart only update the data variable below with your desired values.
 
 ```javascript
